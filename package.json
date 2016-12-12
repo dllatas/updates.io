@@ -1,0 +1,24 @@
+{
+  "name": "updates.io",
+  "version": "1.0.0",
+  "description": "nodeJS app to send customized messages to different devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dllatas/updates.io.git"
+  },
+  "keywords": [
+    "updates",
+    "nodejs",
+    "go"
+  ],
+  "author": "osgundra centrum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dllatas/updates.io/issues"
+  },
+  "homepage": "https://github.com/dllatas/updates.io#readme"
+}
